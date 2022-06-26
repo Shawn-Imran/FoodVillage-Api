@@ -5,11 +5,11 @@ This project was generated with Node Js & MongoDB.
 
 ## Development By
 
-Md Iqbal Hossen Sazib.
+Md. Al Mahmud Imran.
 
-Email: ikbal.sazib@gmail.com
+Email: md.almahmudimran@gmail.com
 
 ## Code copyright
-@SoftLab IT & Software
+@Shawn-Imran
 
 # FoodVillage-Api
