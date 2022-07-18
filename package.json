@@ -1,0 +1,39 @@
+{
+  "name": "esquire-api",
+  "version": "1.0.0",
+  "description": "This project was generated with Node Js & MongoDB. (Based on Angular 8)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "compress-images": "^1.9.5",
+    "concat-stream": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "express-ip-access-control": "^1.1.0",
+    "express-ipfilter": "^1.2.0",
+    "express-validator": "^6.9.0",
+    "jimp": "^0.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mkdirp": "^1.0.4",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^6.1.6",
+    "multer": "^1.4.2",
+    "node-schedule": "^2.1.0",
+    "request": "^2.88.2",
+    "streamifier": "^0.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
